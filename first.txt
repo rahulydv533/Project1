@@ -1,0 +1,8 @@
+ Volume in drive D is D
+ Volume Serial Number is 0E6E-0335
+
+ Directory of D:\TCS\My Project
+
+12/04/2019  01:38 PM                 0 first.txt
+               1 File(s)              0 bytes
+               0 Dir(s)  389,927,436,288 bytes free
